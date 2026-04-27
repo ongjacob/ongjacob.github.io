@@ -1,10 +1,15 @@
 BEGIN:VCARD
 VERSION:3.0
-REV:2026-04-25T00:00:00Z
+FN:Jacob Ong
 N:Ong;Jacob;;;
-ORG:Rotary Club of Cebu
-TITLE:Past President, RY2021-22
-TEL;CELL:+639173277755
-EMAIL;INTERNET;WORK:ongjacob@gmail.com
-URL;WORK:https://www.rotarycebu.org
+TITLE:Past President, RY 2021-22 - Rotary Club of Cebu
+ORG:Cebu Orient Noodles;Kai Stickers
+TEL;TYPE=CELL,VOICE:+639173277755
+TEL;TYPE=WORK,VOICE:+63322389077
+EMAIL;TYPE=PREF,INTERNET:ongjacob@gmail.com
+EMAIL;TYPE=WORK,INTERNET:kaistickers@gmail.com
+ADR;TYPE=WORK:;;88 V.B. Cabahug St., Opao;Mandaue City;;;Philippines
+ADR;TYPE=WORK:;;Villagracia Building, 155 S.B. Cabahug St., Centro;Mandaue City;;;Philippines
+NOTE:Past President, RY 2021-22 (Rotary Club of Cebu)
+URL:https://ongjacob.github.io
 END:VCARD
